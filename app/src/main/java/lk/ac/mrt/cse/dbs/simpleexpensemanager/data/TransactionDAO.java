@@ -23,9 +23,12 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Transaction;
 
 /**
+ * pasindu kanchana
  * TransactionDAO interface can be used to access the log of transactions requested by the user.
  */
 public interface TransactionDAO {
+
+    String[] transaction_columns = new String[] { "accountNo","date"," expenseType"," amountVal" };
 
     /***
      * Log the transaction requested by the user.

@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-40:12
+	xmlns:android
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:11-69
+	package
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:19:11-59
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-38:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:22:9-34
+activity#lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:29:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Official\CSE\Semester 4\Data Base\Mini Project\SimpleExpenseManager\app\src\main\AndroidManifest.xml

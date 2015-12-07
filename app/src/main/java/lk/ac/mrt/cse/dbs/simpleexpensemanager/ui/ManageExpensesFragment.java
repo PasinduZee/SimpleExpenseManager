@@ -68,8 +68,7 @@ public class ManageExpensesFragment extends Fragment implements View.OnClickList
         amount = (EditText) rootView.findViewById(R.id.amount);
         accountSelector = (Spinner) rootView.findViewById(R.id.account_selector);
         currentExpenseManager = (ExpenseManager) getArguments().get(EXPENSE_MANAGER);
-        ArrayAdapter<String> adapter =
-                null;
+        ArrayAdapter<String> adapter = null;
         if (currentExpenseManager != null) {
             adapter = new ArrayAdapter<>(this.getActivity(), R.layout.support_simple_spinner_dropdown_item,
                     currentExpenseManager.getAccountNumbersList());
